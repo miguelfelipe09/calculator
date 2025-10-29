@@ -44,6 +44,8 @@ git clone https://github.com/miguelfelipe09/calculator.git
 Abra o arquivo "calc.html" diretamente no navegador
 ```
 
+---
+
 👨‍💻 Autor
 
 Miguel Felipe da Silva
