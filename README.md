@@ -34,12 +34,6 @@
 
 ---
 
-### 🧪 Demonstração
-
-> *(Opcional: posso criar um GIF animado da calculadora em funcionamento aqui!)*
-
----
-
 ### 🚀 Como executar o projeto
 
 ```bash
