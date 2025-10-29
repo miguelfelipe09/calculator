@@ -27,7 +27,7 @@
 ### 🎨 Layout
 
 #### 🕶️ Tema Escuro
-![Dark Theme](images/darkCalc.png)
+![Dark Theme](calculator/images/darkCalc.png)
 
 #### ☀️ Tema Claro
 ![Light Theme](images/whiteCalc.png)
