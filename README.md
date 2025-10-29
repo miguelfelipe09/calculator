@@ -48,3 +48,11 @@ git clone https://github.com/miguelfelipe09/calculator.git
 
 # Abrir o projeto
 Abra o arquivo "calc.html" diretamente no navegador
+```
+
+👨‍💻 Autor
+
+Miguel Felipe da Silva
+
+📎 LinkedIn: https://www.linkedin.com/in/miguel-felipe-aab18523a/
+
