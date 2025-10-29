@@ -1,25 +1,50 @@
-# Calculadora
+<h1 align="center">🧮 Calculadora</h1>
 
-# Sobre o projeto
-A aplicação Calculadora permite que os usuários realizem operações matemáticas básicas (adição, subtração, multiplicação, divisão) em uma interface limpa e intuitiva. Além das funcionalidades padrão de uma calculadora, a aplicação oferece a opção de alternar entre temas claro e escuro para uma melhor experiência visual e permite que os usuários copiem o resultado da operação para a área de transferência.
+<p align="center">
+  Aplicação de calculadora com temas Light/Dark e opção de copiar resultado ✅
+</p>
 
-# Layout
-![Image of project in dark theme](https://github.com/miguelfelipe09/calculator/blob/main/images/darkCalc.png)
+---
 
-![Image of project in light theme](https://github.com/miguelfelipe09/calculator/blob/main/images/whiteCalc.png)
+### 📌 Tecnologias Utilizadas
+<div>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
 
-# Como executar o projeto
+---
 
-```
-# Clonar repositório
+### ✨ Funcionalidades
+
+✔ Operações matemáticas básicas  
+✔ Alternância entre tema claro e escuro  
+✔ Copiar o resultado para área de transferência  
+✔ Design simples e moderno  
+
+---
+
+### 🎨 Layout
+
+#### 🕶️ Tema Escuro
+![Dark Theme](https://raw.githubusercontent.com/miguelfelipe09/calculator/main/images/darkCalc.png)
+
+#### ☀️ Tema Claro
+![Light Theme](https://raw.githubusercontent.com/miguelfelipe09/calculator/main/images/whiteCalc.png)
+
+---
+
+### 🧪 Demonstração
+
+> *(Opcional: posso criar um GIF animado da calculadora em funcionamento aqui!)*
+
+---
+
+### 🚀 Como executar o projeto
+
+```bash
+# Clonar o repositório
 git clone https://github.com/miguelfelipe09/calculator.git
 
-# Executar o projeto
-Vá até a pasta do projeto e abra o executável "calc.html"
-```
-
-# Autor
-
-Miguel Felipe da Silva
-
-https://www.linkedin.com/in/miguel-felipe-aab18523a/
+# Abrir o projeto
+Abra o arquivo "calc.html" diretamente no navegador
